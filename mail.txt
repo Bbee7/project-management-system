@@ -1,0 +1,6 @@
+From: "发件人" <2221674709@qq.com>
+To: "收件人" <2289254995@example.com>
+Subject: 测试主题
+Content-Type: text/plain; charset=utf-8
+
+邮件正文内容（此处需空一行分隔头部和正文）
